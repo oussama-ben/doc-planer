@@ -1,0 +1,124 @@
+.image1 {
+  width: 200px;
+  height: 200px;
+  float: left;
+}
+
+.image2 {
+  width: 50px;
+  height: 50px;
+  margin-left: 610px;
+}
+
+.image3 {
+  width: 230px;
+  height: 200px;
+  margin-left: 160px;
+}
+.image4 {
+  width: 230px;
+  height: 200px;
+  margin-left: 170px;
+}
+.titre {
+  text-align: center;
+  color: #00b39b;
+}
+.Container {
+  display: flex;
+  flex-direction: row;
+ 
+}
+
+.intro {
+  display: flex;
+  
+}
+.parag1 {
+  margin-left: 50px;
+}
+.parag2{
+  margin-right: 50px;
+}
+
+ .card1 {
+  height: 200px;
+  width: 200px;
+} 
+.cart1{
+  width: 380px;
+  height: 420px;
+  margin-left: 50px;
+  background-color: #00b39b;
+}  
+
+
+
+
+.titre2 {
+  margin-left: 20px;
+  color: #00b39b;
+}
+.titre3 {
+  margin-left: 70px;
+  color: #00b39b;
+}
+.svg {
+  display: flex;
+  justify-content: space-between;
+  fill: gray;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.img1 {
+  width: 40px;
+  height: 40px;
+}
+.img2 {
+  width: 40px;
+  height: 40px;
+}
+.img3 {
+  width: 40px;
+  height: 40px;
+}
+.img4 {
+  width: 40px;
+  height: 40px;
+}
+.img5 {
+  height: 400px;
+  width: 400px;
+  margin-left: 50px;
+}
+.title1 {
+  color: #00b39b;
+}
+.icone1 {
+  width: 300px;
+}
+
+.titre5 {
+  margin-left: 400px;
+  color: #00b39b;
+}
+
+.paragraphe {
+  margin-left: 400px;
+  
+}
+
+
+
+.container2 {
+  display: flex;
+  flex-direction: row;
+  margin-left: 600px;
+  margin-top: -300px;
+}
+.container3 {
+  display: flex;
+  flex-direction: row;
+  margin-left: 600px;
+}
